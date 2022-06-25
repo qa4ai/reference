@@ -6,16 +6,19 @@ AIプロダクトの品質保証や品質管理などの適用事例の公開情
 
 ## AIプロダクトの品質保証の事例
 
-- 今谷恵理, 中川純貴(日立), [AI搭載ソフトウェアの開発プロジェクトにおける品質確保](https://www.juse.jp/sqip/symposium/archive/2019/day2/files/B3-1_happyou.pdf), ソフトウェア品質シンポジウム(SQiP) 2019.
+- 今谷恵理, 中川純貴(日立), [AI搭載ソフトウェアの開発プロジェクトにおける品質確保](https://www.juse.jp/sqip/symposium/archive/2019/day2/files/B3-1_happyou.pdf)
+  - ソフトウェア品質シンポジウム(SQiP) 2019
   - チェックリスト
 
 ## AIプロダクトのテスト技術の適用事例
 
-- 中川純貴(日立), [ニューロンカバレッジ技法を用いたAIモデル特性分析によるテスト十分性向上施策](https://www.juse.jp/sqip/symposium/2021/timetable/files/B2-3_happyou.pdf), ソフトウェア品質シンポジウム(SQiP) 2021.
+- 中川純貴(日立), [ニューロンカバレッジ技法を用いたAIモデル特性分析によるテスト十分性向上施策](https://www.juse.jp/sqip/symposium/2021/timetable/files/B2-3_happyou.pdf)
+  - ソフトウェア品質シンポジウム(SQiP) 2021
   - ニューロンカバレッジ, メタモルフィックテスティング
   - 帳票認識
 
-- 中川純貴(日立), [Deep Learning搭載ソフトウェアの品質評価/テストを前進させる取り組み](https://www.jasst.jp/symposium/jasst19hokkaido/pdf/S3-1-2.pdf), ソフトウェアテストシンポジウム北海道(JaSST Hokkaido), 2019
+- 中川純貴(日立), [Deep Learning搭載ソフトウェアの品質評価/テストを前進させる取り組み](https://www.jasst.jp/symposium/jasst19hokkaido/pdf/S3-1-2.pdf)
+  - ソフトウェアテストシンポジウム北海道(JaSST Hokkaido), 2019
   - メタモルフィックテスティング
   - 帳票認識
 
