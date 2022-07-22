@@ -15,7 +15,12 @@ AIプロダクトの品質保証や品質管理などの適用事例の公開情
 
 - NEC, [NEC、「AI品質ガイドライン」を策定し、AIシステムの構築・開発に適用](https://jpn.nec.com/press/201912/20191210_02.html)
   - ニュースリリース, 2019
-  -  ガイドライン
+  - ガイドライン
+
+- ベリサーブ, [QA4AIガイドラインの実プロジェクトへの適用の勘所](https://www.veriserve.co.jp/asset/approach/column/ai/advanced-tech-ai06.html)
+  - Webサイト, 2021
+  - ガイドライン
+ 
 
 ## AIプロダクトのテスト技術の適用事例
 
